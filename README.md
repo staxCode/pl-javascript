@@ -10,9 +10,9 @@
 - [ X ] Optional chaining (`?.`) y Nullish coalescing (`??`)
 
 ## 🔹 Funciones
-- [ X ] Funciones tradicionales vs funciones flecha
-- [ X ] Parámetros por defecto
-- [ X ] Closures y scope
+- [X] Funciones tradicionales vs funciones flecha
+- [X] Parámetros por defecto
+- [X] Closures y scope
 - [ X ] Callbacks
 - [ X ] Funciones de orden superior (`map`, `filter`, `reduce`, `forEach`)
 - [ X ] Currying y composición 👈
