@@ -31,44 +31,44 @@
 ## 🔹 Módulos
 - [X] `import` / `export`
 - [X] CommonJS (`require`) vs ES Modules
-- [] Tree-shaking y dynamic imports
+- [ ] Tree-shaking y dynamic imports
 
 ## 🔹 Programación Orientada a Objetos
 - [X] Clases (`class`, `constructor`, `super`)
-- [] Métodos estáticos y privados
-- [] Herencia y polimorfismo
-- [] Prototipo
+- [ ] Métodos estáticos y privados
+- [ ] Herencia y polimorfismo
+- [ ] Prototipo
 
 ## 🔹 Manipulación del DOM (Frontend)
-- [] `querySelector`, `querySelectorAll`
-- [] Creación y modificación de nodos
-- [] Eventos (`addEventListener`)
-- [] Event bubbling y delegation
-- [] `localStorage`, `sessionStorage`
+- [ ] `querySelector`, `querySelectorAll`
+- [ ] Creación y modificación de nodos
+- [ ] Eventos (`addEventListener`)
+- [ ] Event bubbling y delegation
+- [ ] `localStorage`, `sessionStorage`
 
 ## 🔹 Fetch y APIs
 - [X] `fetch` básico (GET, POST, PUT, DELETE)
 - [X] `headers`, `body`, `JSON.stringify`
 - [X] Manejo de errores en peticiones
-- [] AbortController (cancelar requests)
+- [ ] AbortController (cancelar requests)
 
 ## 🔹 Node.js / Backend
-- [] `fs` (File System) básico
-- [] `path` y `url`
-- [] Servidores con `http` o `express`
-- [] Middlewares y routing
+- [ ] `fs` (File System) básico
+- [ ] `path` y `url`
+- [ ] Servidores con `http` o `express`
+- [ ] Middlewares y routing
 - [X] Variables de entorno (`process.env`)
 
 ## 🔹 Herramientas Modernas
-- [] NPM scripts y dependencias
-- [] Bundlers (Vite, Webpack, esbuild)
-- [] Transpiladores (Babel)
-- [] Linters y formatters (ESLint, Prettier)
+- [ ] NPM scripts y dependencias
+- [ ] Bundlers (Vite, Webpack, esbuild)
+- [ ] Transpiladores (Babel)
+- [ ] Linters y formatters (ESLint, Prettier)
 
 ## 🔹 Extras Avanzados
-- [] Generators (`function*`)
-- [] Iteradores
-- [] Proxy y Reflect
-- [] Symbols
-- [] WeakMap y WeakSet
-- [] WebSockets y SSE
+- [ ] Generators (`function*`)
+- [ ] Iteradores
+- [ ] Proxy y Reflect
+- [ ] Symbols
+- [ ] WeakMap y WeakSet
+- [ ] WebSockets y SSE
