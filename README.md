@@ -15,7 +15,7 @@
 - [X] Closures y scope
 - [X] Callbacks
 - [X] Funciones de orden superior (`map`, `filter`, `reduce`, `forEach`)
-- [X] Currying y composición 👈
+- [X] Currying y composición
 
 ## 🔹 Objetos y Arrays
 - [X] Métodos útiles de Array (`find`, `some`, `every`, `flatMap`, etc.)
@@ -35,9 +35,9 @@
 
 ## 🔹 Programación Orientada a Objetos
 - [X] Clases (`class`, `constructor`, `super`)
-- [ ] Métodos estáticos y privados
-- [ ] Herencia y polimorfismo
-- [ ] Prototipo
+- [X] Métodos estáticos y privados
+- [X] Herencia y polimorfismo
+- [X] Prototipo
 
 ## 🔹 Manipulación del DOM (Frontend)
 - [ ] `querySelector`, `querySelectorAll`
@@ -60,7 +60,7 @@
 - [X] Variables de entorno (`process.env`)
 
 ## 🔹 Herramientas Modernas
-- [ ] NPM scripts y dependencias
+- [X] NPM scripts y dependencias
 - [ ] Bundlers (Vite, Webpack, esbuild)
 - [ ] Transpiladores (Babel)
 - [ ] Linters y formatters (ESLint, Prettier)

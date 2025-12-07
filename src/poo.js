@@ -128,3 +128,7 @@ class Car extends Vehicle {
         };
     }    
 }
+
+const car1 = new Car();
+console.log(car1.getParentClassInfo())
+console.log(car1.startEngine())
